@@ -1,0 +1,7 @@
+---
+ES_HOST: "http://localhost/"
+HTPASSWD:
+  alice:
+    - "somepassword1"
+  bob:
+    - "somepassword2"
